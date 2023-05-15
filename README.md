@@ -1,7 +1,7 @@
 
 <h1> Projeto PetShop </h1>
 
-<p> Projeto de uma landing page basica e Responsiva </p>
+<p> Projeto de uma landing Responsiva </p>
 
 <h2> Tecnologias : </h2>
 
